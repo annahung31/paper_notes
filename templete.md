@@ -1,3 +1,5 @@
+# Paper title
+
 ## Basic information
 
 - Paper:
