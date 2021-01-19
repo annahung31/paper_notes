@@ -27,7 +27,8 @@
 
 ## Model Architecture
 * LSTM
-* transformer-XL
+* transformer-XL  
+![LSTM](./img/bebop.png)
 
 ## Experiments
 * harmonic coherence metrics (matric learning)
