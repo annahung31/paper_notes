@@ -3,6 +3,7 @@
 ## Basic information
 
 - Paper:
+- Conference:
 - Demo:
 - GitHub:
 - work field:

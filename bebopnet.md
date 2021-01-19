@@ -3,6 +3,7 @@
 ## Basic information
 
 - Paper: BebopNet: Deep Neural Models for Personalized Jazz Improvisations 
+- Conference: ISMIR'20
 - Demo: https://shunithaviv.github.io/bebopnet/ 
 - GitHub: https://github.com/shunithaviv/bebopnet-code 
 - Medium: https://towardsdatascience.com/bebopnet-neural-models-for-jazz-improvisations-4a4d723d0b60 
