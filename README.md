@@ -1,12 +1,9 @@
-# README
-
-## Catalogue
+# Catalogue
 
 ### Model [MODEL]
-* [paper](./templete.md)
 
 ### Music Generation [MG]
-
+* [BebopNet]([MG]bebopnet.md)
 
 ### Music Emotion Recognition [MER]
 
