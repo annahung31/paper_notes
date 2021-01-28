@@ -1,5 +1,9 @@
 # Catalogue
 
+## Method [METHOD]
+* [Self-supervised learning]([METHOD]self-supervised-learning.md)  
+
+
 ### Model [MODEL]
 
 ### Music Generation [MG]
