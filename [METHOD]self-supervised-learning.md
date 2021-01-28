@@ -1,4 +1,5 @@
 
+
 Siamese NN: 學習相似性，而不是學預測類別。  
 
 # SimCLR
@@ -61,8 +62,13 @@ Siamese NN: 學習相似性，而不是學預測類別。
 * 很常看到有人用 predictor (MLP)
 * Q: Difference between semi-supervised learning and self-supervised learning?  
     - A: semi-supervised: 像 teacher-student model, 以少量的 groundtruth 訓練 teacher model, 再產生大量的 data 訓練 student model。 self-supervised 則是沒有 groundtruth, 以 augmentation 的方式生成 sample, 讓 model 自己學習區辨。  
-    
+
 
 
 # Reference
 [1] [小全读论文《Momentum Contrast for Unsupervised Visual Representation Learning》(MoCo)](https://blog.csdn.net/FatMigo/article/details/103211622?fbclid=IwAR3IW5svlkpdY5Rc5UmoOCT11CQ63JJv93zWozwrK-vnB7s69Pwwwf60KKI)
+
+
+
+# Acknowledgement  
+This paper survey is made by Paul for his seminar presentation, check out his slides [HERE](https://drive.google.com/file/d/1C9uO6j_LgX31-SgmfAdJVZNwp7gDztQH/view?fbclid=IwAR2pNQH9HMfqjC9NDk7DaDtd6OBYMKuk9tDC9V82BAtvICRa8QgqW7d77lo).
