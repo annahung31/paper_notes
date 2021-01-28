@@ -6,7 +6,7 @@ Siamese NN: 學習相似性，而不是學預測類別。
 ## Basic information
 - Paper: [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 - Conference: ICML'20
-- author: Google Brain
+- Author: Google Brain
 
 ## Key takeaway
 * 在 self-supervised learning 中，需要更大的 batch size 跟 training step
@@ -19,7 +19,7 @@ Siamese NN: 學習相似性，而不是學預測類別。
 ## Basic information
 - Paper: [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 - Conference: CVPR'20
-- author: Kaiming He (Facebook AI)
+- Author: Kaiming He (Facebook AI)
 
 ## Key takeaway
 * Inspired by NLP pre-training. 
@@ -33,7 +33,7 @@ Siamese NN: 學習相似性，而不是學預測類別。
 ## Basic information
 - Paper: [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
 - Conference: CVPR'20
-- author: DeepMind
+- Author: DeepMind
 
 ## Key takeaway
 * 真的需要 Negative example 嗎？能不能不要用 Negative example 來訓練？
@@ -48,7 +48,7 @@ Siamese NN: 學習相似性，而不是學預測類別。
 ## Basic information
 - Paper: [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)
 - Conference: CVPR'20
-- author: Facebook AI
+- Author: Facebook AI
 
 ## Key takeaway
 * 目前最精簡的 self-supervising learning model.
